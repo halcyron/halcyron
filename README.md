@@ -33,5 +33,4 @@
 <p align="center">
 <b>🚀 Always Learning. Always Building.</b>
 <br>
-<i>Turning ideas into reality, one line of code at a time.</i>
-</p>
+
