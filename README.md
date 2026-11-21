@@ -1,132 +1,117 @@
-<!--
-  GitHub Profile README for @halcyron
-  Personalise the social links and project URLs as your public portfolio evolves.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171C3A,45:5145CD,100:16C7B7&height=210&section=header&text=Abhik&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20%7C%20SOFTWARE%20%7C%20CURIOSITY&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Abhik profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:263B68,100:167D8D&height=190&section=header&text=ABHIK&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ENGINEERING&descAlignY=60&descSize=13" width="100%" alt="Abhik — Data Science, Machine Learning and Data Engineering" />
 
-<a href="https://github.com/halcyron">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=70A5FD&center=true&vCenter=true&width=760&lines=Computer+Science+%26+Engineering+student;Exploring+Data+Engineering+%26+Analytics;Building+full-stack+applications;Learning+by+building%2C+one+project+at+a+time" alt="Typing introduction" />
-</a>
+### Computer Science & Engineering Student | Data & AI Enthusiast
 
-<br />
+Building practical solutions with data, machine learning, and software.
 
-[![GitHub followers](https://img.shields.io/github/followers/halcyron?label=Followers&style=for-the-badge&logo=github&color=22272e)](https://github.com/halcyron?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=halcyron&style=for-the-badge&color=5145CD&label=PROFILE+VIEWS)](https://github.com/halcyron)
-[![GitHub stars](https://img.shields.io/github/stars/halcyron?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=16A085)](https://github.com/halcyron?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-halcyron-181717?style=flat-square&logo=github)](https://github.com/halcyron)
+[![Profile views](https://komarev.com/ghpvc/?username=halcyron&style=flat-square&color=263B68&label=Profile%20views)](https://github.com/halcyron)
 
 </div>
 
 ---
 
-## `whoami` — A little about me
+## About
 
-Hey! I'm **Abhik**, a Computer Science & Engineering student at **Amity University, Patna, India**. I like understanding how things work under the hood and turning that curiosity into useful software.
+I'm **Abhik**, a Computer Science and Engineering student at **Amity University, Patna, India**. My primary interests are **Data Science, Machine Learning, Data Engineering, Analytics, and applied AI**.
 
-My interests sit at the intersection of **data engineering, analytics, backend development, and applied AI**. I have built full-stack applications, worked with databases and data transformation tools, and continue to strengthen my foundations through hands-on projects.
+I enjoy working with data across its lifecycle: exploring and preparing datasets, building predictive models, writing transformations, and understanding how reliable data pipelines and analytical systems are designed.
 
-- 🎓 **Focus:** Computer Science & Engineering
-- 🧩 **Interested in:** Data Engineering · Data Analytics · Backend Systems · Applied AI
-- 🛠️ **Build with:** Python · SQL · JavaScript · React · Node.js
-- 🌱 **Learning more about:** Apache Spark · Databricks · scalable data pipelines · data modeling
-- 🤝 **Open to:** Learning opportunities, meaningful collaborations, and beginner-friendly open source work
+- **Core focus:** Data Engineering, Data Science, Machine Learning, and Analytics
+- **Programming:** Python and SQL
+- **Currently learning:** Apache Spark, Databricks, scalable data pipelines, and advanced data modeling
+- **Also familiar with:** Full-stack web development
 
-> Curious by default. Practical by choice. Always building.
+## Technical toolkit
 
-## Tech I work with
+### Data science & analytics
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn" />
+  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="48" alt="Matplotlib" />
+</p>
 
-**Languages**
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Exploratory Data Analysis` · `Statistical Analysis`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark&perline=6" alt="Python, C++, Java, JavaScript, HTML and CSS" />
+### Machine learning & AI
 
-**Web development**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind&theme=dark&perline=6" alt="React, Next.js, Node.js, Express, Django and Tailwind CSS" />
+`scikit-learn` · `TensorFlow / Keras` · `PyTorch` · `OpenCV` · `Hugging Face Transformers` · `Model Evaluation` · `Feature Engineering`
 
-**Databases, data & cloud**
+### Data engineering & platforms
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,gcp&theme=dark&perline=6" alt="PostgreSQL, MySQL, MongoDB, Redis, AWS and Google Cloud" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,gcp,docker&theme=dark" alt="PostgreSQL, MySQL, MongoDB, AWS, Google Cloud and Docker" />
+</p>
 
-**Tools**
+`Apache Airflow` · `dbt` · `Snowflake` · `BigQuery` · `Amazon S3` · `PostgreSQL` · `MySQL` · `MongoDB` · `ETL / ELT` · `Data Warehousing` · `Medallion Architecture`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark&perline=5" alt="Git, GitHub, Docker, Linux and VS Code" />
+**Currently exploring:** `Apache Spark` · `Databricks` · `Distributed Data Processing`
 
-</div>
+### Web development — familiar with
 
-**Data & analytics toolkit**  
-`Pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `Apache Airflow` · `dbt` · `Snowflake` · `BigQuery` · `SQL`
+`React` · `Node.js` · `Express.js` · `MongoDB` · `Flask` · `HTML` · `CSS` · `JavaScript`
 
-**Currently exploring**  
-`Apache Spark` · `Databricks` · `ETL / ELT design` · `Data warehousing` · `Distributed processing`
-
-## Selected work & projects
-
-A few areas I've spent time building and experimenting with:
+## Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 IntelliDoc — AI Document Assistant</h3>
-      A full-stack document summarization and analysis application, combining a React interface with backend services and a Python NLP microservice.
+      <h3>IntelliDoc — AI Document Summarizer</h3>
+      A full-stack document summarization and analysis application using a Python NLP service and a web-based interface.
       <br /><br />
-      <sub><b>Stack:</b> React · Node.js · Flask · MongoDB · Redis · Transformers</sub>
+      <sub><b>Technologies:</b> Python, Flask, Transformers, React, Node.js, MongoDB, Redis</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ E-commerce Clothing Application</h3>
-      Worked on a full-stack clothing e-commerce application during internship training, building across the frontend, API layer, and database.
+      <h3>Data Engineering Practice</h3>
+      Hands-on work with data ingestion, SQL transformations, warehouse concepts, and medallion-style data organization.
       <br /><br />
-      <sub><b>Stack:</b> React · Express.js · MongoDB</sub>
+      <sub><b>Technologies:</b> Python, SQL, dbt, Snowflake, Amazon S3</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Engineering & Analytics</h3>
-      Hands-on practice with ingestion, SQL transformations, warehouse concepts, and medallion-style data organization.
+      <h3>Machine Learning Projects</h3>
+      Practical experiments with data preprocessing, predictive modeling, model evaluation, and computer vision.
       <br /><br />
-      <sub><b>Stack:</b> Python · SQL · dbt · Snowflake · Amazon S3</sub>
+      <sub><b>Technologies:</b> Python, Pandas, scikit-learn, TensorFlow, OpenCV</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Machine Learning Experiments</h3>
-      Exploring predictive modeling, data preprocessing, model evaluation, and computer vision through practical exercises.
+      <h3>E-commerce Web Application</h3>
+      Full-stack clothing e-commerce application developed during internship training.
       <br /><br />
-      <sub><b>Stack:</b> Python · Pandas · scikit-learn · TensorFlow · OpenCV</sub>
+      <sub><b>Technologies:</b> React, Express.js, MongoDB</sub>
     </td>
   </tr>
 </table>
 
-## GitHub dashboard
+## GitHub activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=halcyron&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117" alt="GitHub statistics for Halcyron" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halcyron&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=halcyron&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halcyron&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117" alt="Most used languages" />
   <br /><br />
-  <img width="65%" src="https://streak-stats.demolab.com?user=halcyron&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=halcyron&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
   <br /><br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=halcyron&bg_color=0D1117&color=70A5FD&line=16C7B7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=halcyron&bg_color=0D1117&color=70A5FD&line=167D8D&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
-## What I'm working towards
-
-- Writing reliable Python and SQL for real-world data problems.
-- Designing end-to-end ETL / ELT pipelines and learning how to operate them well.
-- Building a stronger understanding of warehouses, distributed systems, and data quality.
-- Contributing consistently to open source and learning from other developers.
-
-## Find me on GitHub
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halcyron?tab=repositories)
-[![Follow](https://img.shields.io/badge/Follow_@halcyron-5145CD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halcyron)
+[![GitHub](https://img.shields.io/badge/GitHub-View_repositories-181717?style=for-the-badge&logo=github)](https://github.com/halcyron)
 
-<br />
-
-*Thanks for stopping by. Have a great day, and keep building!* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16C7B7,55:5145CD,100:171C3A&height=100&section=footer" width="100%" alt="Decorative footer wave" />
+**Focused on data. Curious about intelligence. Building for scale.**
 
 </div>
