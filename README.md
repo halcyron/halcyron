@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Languages & Frameworks 🧬</h1>
 <p align="center">
   <img
-    src="assets/languages-frameworks.png"
+    src="assets/languages-frameworks.jpeg"
     width="100%"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,c,py,scala" />
