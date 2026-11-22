@@ -1,3 +1,17 @@
+<h1 align="center">🤖 Languages & Frameworks 🧬</h1>
 <p align="center">
-  <img src="assets/tech-stack.svg" width="100%" alt="Technical stack. Languages: Python, Scala, Java, C++, C, SQL. Data engineering: PySpark, Azure Databricks, Delta Lake, Apache Airflow, Apache Kafka. Machine learning, AI and LLMs: TensorFlow, PyTorch, MATLAB, scikit-learn, LangChain, Hugging Face, ChromaDB, FAISS. Data analysis and databases: MySQL, MongoDB, Supabase. Cloud: AWS, GCP, Azure, Oracle Cloud Infrastructure. Tools and DevOps: Git, Docker, Kubernetes, Linux, Kali, VS Code, IntelliJ IDEA, Eclipse, Figma. Web and application development: HTML, CSS, JavaScript, React, Vue, Node.js, Express, Flutter." />
+  <img
+    src="assets/languages-frameworks.png"
+    width="100%"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,py,scala" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,flutter" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab,kafka" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,kali,vscode,idea,eclipse,figma" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,supabase" />
+ />
 </p>
